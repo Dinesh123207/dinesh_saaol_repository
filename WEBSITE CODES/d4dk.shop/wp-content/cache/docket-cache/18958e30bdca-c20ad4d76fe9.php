@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1719912804,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 12,
+  'type' => 'object',
+  'timeout' => 1721122404,
+  'data' => 
+  (object) array(
+     'ID' => 12,
+     'post_author' => '1',
+     'post_date' => '2024-06-22 21:59:08',
+     'post_date_gmt' => '2024-06-22 21:59:08',
+     'post_content' => '',
+     'post_title' => 'image-1',
+     'post_excerpt' => '',
+     'post_status' => 'inherit',
+     'comment_status' => 'open',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'image-1',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2024-06-22 21:59:08',
+     'post_modified_gmt' => '2024-06-22 21:59:08',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://www.d4dk.shop/wp-content/uploads/2024/06/image-1.png',
+     'menu_order' => 0,
+     'post_type' => 'attachment',
+     'post_mime_type' => 'image/png',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

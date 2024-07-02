@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1719912820,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 673,
+  'type' => 'object',
+  'timeout' => 1721122420,
+  'data' => 
+  (object) array(
+     'ID' => 673,
+     'post_author' => '1',
+     'post_date' => '2024-07-02 09:33:40',
+     'post_date_gmt' => '0000-00-00 00:00:00',
+     'post_content' => '',
+     'post_title' => 'Auto Draft',
+     'post_excerpt' => '',
+     'post_status' => 'auto-draft',
+     'comment_status' => 'open',
+     'ping_status' => '0',
+     'post_password' => '',
+     'post_name' => '',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2024-07-02 09:33:40',
+     'post_modified_gmt' => '0000-00-00 00:00:00',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://www.d4dk.shop/?p=673',
+     'menu_order' => 0,
+     'post_type' => 'post',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

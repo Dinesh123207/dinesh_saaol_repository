@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1719912819,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 622,
+  'type' => 'object',
+  'timeout' => 1721122419,
+  'data' => 
+  (object) array(
+     'ID' => 622,
+     'post_author' => '1',
+     'post_date' => '2024-06-23 04:56:49',
+     'post_date_gmt' => '2024-06-23 04:56:49',
+     'post_content' => '{"fields":[{"id":"0","type":"name","label":"Name","format":"first-last","description":"","required":"1","size":"medium","simple_placeholder":"","simple_default":"","first_placeholder":"","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"","last_default":"","css":""},{"id":"1","type":"email","label":"Email","description":"","required":"1","size":"medium","placeholder":"","confirmation_placeholder":"","default_value":false,"filter_type":"","allowlist":"","denylist":"","css":""},{"id":"2","type":"textarea","label":"Comment or Message","description":"","size":"medium","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}],"id":"622","field_id":3,"settings":{"form_title":" Contact Us","form_desc":"","submit_text":"Submit","submit_text_processing":"Sending...","form_class":"","submit_class":"","ajax_submit":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","subject":"New Entry: Simple Contact Form","sender_name":"Just another WordPress site","sender_address":"dineshbindal1155@gmail.com","replyto":"{field_id=\\"1\\"}","message":"{all_fields}","template":""}},"confirmations":{"1":{"type":"message","message":"<p>Thanks for contacting us! We will be in touch with you shortly.<\\/p>","message_scroll":"1","page":"616","redirect":""}},"antispam":"1","anti_spam":{"time_limit":{"duration":"3"}},"form_tags":[],"store_spam_entries":"0"},"search_terms":"","meta":{"template":"simple-contact-form-template"}}',
+     'post_title' => 'Contact Us',
+     'post_excerpt' => '',
+     'post_status' => 'publish',
+     'comment_status' => 'closed',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'simple-contact-form',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2024-06-23 04:57:17',
+     'post_modified_gmt' => '2024-06-23 04:57:17',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://www.d4dk.shop/?post_type=wpforms&#038;p=622',
+     'menu_order' => 0,
+     'post_type' => 'wpforms',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/
